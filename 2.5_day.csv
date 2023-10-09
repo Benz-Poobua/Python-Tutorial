@@ -1,0 +1,49 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-09T15:57:15.560Z,34.0908333,-118.2578333,10.85,2.58,ml,75,26,0.04451,0.25,ci,ci40579712,2023-10-09T17:15:50.227Z,"1 km E of Silver Lake, CA",earthquake,0.23,0.43,0.148,26,automatic,ci,ci
+2023-10-09T15:15:16.374Z,32.682,-100.696,6.774,2.9,ml(texnet),23,55,0,0.2,tx,tx2023tuoo,2023-10-09T15:40:23.040Z,"7 km NE of Hermleigh, Texas",earthquake,0.8194975003,1.468453297,0.1,19,reviewed,tx,tx
+2023-10-09T14:29:05.788Z,-0.9087,-79.1846,105.014,4.1,mb,25,111,0.661,0.71,us,us6000le97,2023-10-09T16:46:27.040Z,"Ecuador",earthquake,3.43,5.803,0.144,13,reviewed,us,us
+2023-10-09T13:59:24.800Z,28.966,-97.62,3.9861,4,ml(texnet),30,92,0.1,0.3,tx,tx2023tumb,2023-10-09T16:49:10.762Z,"5 km NNW of Nordheim, Texas",earthquake,1.49659632,1.907328823,0.2,21,reviewed,tx,tx
+2023-10-09T13:48:48.340Z,38.7628333,-122.7255,2.15,2.8,md,97,26,0.001335,0.07,nc,nc73948151,2023-10-09T17:14:13.817Z,"3 km ESE of The Geysers, CA",earthquake,0.09,0.14,0.188,141,reviewed,nc,nc
+2023-10-09T13:30:46.525Z,34.6605,62.0341,10,5.1,mww,114,88,5.782,0.9,us,us6000le8s,2023-10-09T15:39:06.373Z,"37 km NNW of Herāt, Afghanistan",earthquake,7.43,1.85,0.078,16,reviewed,us,us
+2023-10-09T13:25:55.545Z,28.926,-98.062,6.7251,3.5,ml(texnet),22,73,0.1,0.5,tx,tx2023tuky,2023-10-09T15:27:11.403Z,"7 km SW of Falls City, Texas",earthquake,1.962698389,3.036989574,0.2,20,reviewed,tx,tx
+2023-10-09T13:03:54.309Z,-23.6804,-66.8729,216.661,4.1,ml,21,134,1.402,0.27,us,us6000le8j,2023-10-09T15:55:02.040Z,"Jujuy, Argentina",earthquake,12.9,15.964,,,reviewed,us,guc
+2023-10-09T12:43:31.892Z,51.539,179.0384,15.2,3.4,ml,,,,0.51,ak,ak023cykycl6,2023-10-09T14:02:55.019Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-10-09T12:35:55.347Z,3.2631,127.0766,39.14,4.4,mb,24,81,2.492,0.78,us,us6000le8e,2023-10-09T12:51:27.040Z,"198 km NNW of Tobelo, Indonesia",earthquake,9.52,6.263,0.134,16,reviewed,us,us
+2023-10-09T12:24:38.222Z,3.2965,127.0584,34.086,4.8,mb,55,75,2.527,0.78,us,us6000le8d,2023-10-09T12:39:24.040Z,"203 km NNW of Tobelo, Indonesia",earthquake,5.53,5.383,0.073,58,reviewed,us,us
+2023-10-09T12:05:33.408Z,61.243,-146.9095,3.7,2.5,ml,,,,0.7,ak,ak023cykq7o9,2023-10-09T13:33:47.492Z,"32 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-09T12:04:44.870Z,33.1196667,-115.5983333,9.3,2.58,ml,43,83,0.05945,0.22,ci,ci40579440,2023-10-09T16:10:29.042Z,"8 km W of Calipatria, CA",earthquake,0.31,0.85,0.19,27,automatic,ci,ci
+2023-10-09T10:08:41.290Z,17.8893333333333,-66.923,14.63,2.89,md,17,241,0.08355,0.09,pr,pr71428053,2023-10-09T10:24:37.570Z,"9 km S of Guánica, Puerto Rico",earthquake,0.55,0.42,0.17537555426393,9,reviewed,pr,pr
+2023-10-09T09:46:00.777Z,34.7494,62.0168,10,4.7,mb,74,150,5.796,0.63,us,us6000le7q,2023-10-09T11:13:49.558Z,"30 km SE of Qarah Bāgh, Afghanistan",earthquake,9.24,1.903,0.057,95,reviewed,us,us
+2023-10-09T06:54:06.387Z,34.6185,62.029,10,4.9,mb,67,85,5.787,0.54,us,us6000le6y,2023-10-09T08:34:44.826Z,"western Afghanistan",earthquake,9.46,1.871,0.052,115,reviewed,us,us
+2023-10-09T06:29:31.663Z,31.628,-103.99,7.3013,2.9,ml(texnet),33,49,0,0.1,tx,tx2023ttxf,2023-10-09T15:01:31.223Z,"38 km WSW of Mentone, Texas",earthquake,0.3769752486,0.5032247142,0.2,24,reviewed,tx,tx
+2023-10-09T06:28:54.396Z,38.2755,38.1522,10,4.2,mb,32,44,0.829,0.37,us,us6000le6p,2023-10-09T10:36:21.040Z,"eastern Turkey",earthquake,2.34,1.883,0.159,11,reviewed,us,us
+2023-10-09T06:27:38.350Z,17.826,-66.872,7.81,2.58,md,5,261,0.1484,0.22,pr,pr71428028,2023-10-09T06:38:47.670Z,"16 km SSE of Guánica, Puerto Rico",earthquake,3.7,4.48,0.0971706078804511,5,reviewed,pr,pr
+2023-10-09T05:54:09.982Z,-23.9344,-66.8994,211.965,4.5,mb,27,69,1.529,0.99,us,us6000le6j,2023-10-09T08:33:17.040Z,"Jujuy, Argentina",earthquake,9.67,8.835,0.145,14,reviewed,us,us
+2023-10-09T05:09:40.742Z,44.6817,146.2867,174.468,5.3,mww,129,60,2.707,0.93,us,us6000le6f,2023-10-09T05:31:25.040Z,"76 km NNE of Otrada, Russia",earthquake,7.43,4.56,0.063,24,reviewed,us,us
+2023-10-09T03:50:48.519Z,0.4057,122.2056,125.955,5.1,mww,77,52,1.545,0.97,us,us6000le5w,2023-10-09T04:08:07.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,6.37,6.112,0.098,10,reviewed,us,us
+2023-10-09T03:02:41.120Z,32.682,-100.698,6.3827,3.1,ml(texnet),29,47,0,0.3,tx,tx2023ttqk,2023-10-09T15:24:16.669Z,"western Texas",earthquake,1.069561538,1.83227485,0.1,17,reviewed,tx,tx
+2023-10-09T02:51:35.248Z,40.2508,142.3743,52.464,4.6,mb,14,189,1.134,0.18,us,us6000le5d,2023-10-09T03:34:18.040Z,"50 km ENE of Noda, Japan",earthquake,6.3,11.14,0.273,4,reviewed,us,us
+2023-10-09T02:21:08.750Z,48.02433333333333,-122.70166666666667,57.17,4.32,ml,78,32,0.05476,0.19,uw,uw61965081,2023-10-09T17:13:17.511Z,"Washington",earthquake,0.37,0.53,0.1435800604490347,71,reviewed,uw,uw
+2023-10-09T01:40:44.520Z,18.1765,-66.983,13.03,3.01,md,19,48,0.008164,0.2,pr,pr71428013,2023-10-09T03:49:29.817Z,"Puerto Rico",earthquake,0.36,0.5,0.0872329309924456,11,reviewed,pr,pr
+2023-10-09T01:20:16.157Z,-10.3162,161.35,74.921,4.6,mb,59,100,1.634,0.54,us,us6000le4w,2023-10-09T01:38:39.040Z,"64 km WNW of Kirakira, Solomon Islands",earthquake,10.26,7.255,0.08,47,reviewed,us,us
+2023-10-09T01:19:21.531Z,62.1685,-150.9325,14.1,2.5,ml,,,,0.71,ak,ak023cye9f4p,2023-10-09T01:21:14.130Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-09T00:39:20.630Z,-20.2402,-177.6251,499.749,4.6,mb,56,97,3.769,0.85,us,us6000le4q,2023-10-09T00:54:59.040Z,"262 km WNW of Houma, Tonga",earthquake,12.23,8.306,0.031,313,reviewed,us,us
+2023-10-08T23:50:28.940Z,61.3482,-146.4028,14.8,2.7,ml,,,,0.63,ak,ak023cx409mu,2023-10-09T05:03:49.262Z,"24 km N of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-10-08T23:35:05.063Z,8.8156,-77.1671,25.935,4.6,mb,45,96,0.791,0.65,us,us6000le4f,2023-10-08T23:49:07.040Z,"Panama-Colombia border region",earthquake,6.6,5.928,0.063,75,reviewed,us,us
+2023-10-08T22:42:29.413Z,49.771,89.0078,10,4.4,mb,54,69,3.59,0.59,us,us6000le45,2023-10-08T23:02:49.040Z,"14 km WNW of Tashanta, Russia",earthquake,8.16,1.852,0.087,38,reviewed,us,us
+2023-10-08T22:41:13.640Z,-22.9894,-66.3047,237.861,4.6,mb,33,96,1.728,0.87,us,us6000le44,2023-10-08T22:54:28.040Z,"68 km WNW of El Aguilar, Argentina",earthquake,9.65,9.841,0.117,22,reviewed,us,us
+2023-10-08T22:02:53.353Z,52.699,-166.6638,6.634,3,ml,15,250,1.037,0.42,us,us6000le4k,2023-10-09T01:06:09.040Z,"131 km S of Unalaska, Alaska",earthquake,4.3,5.631,0.128,8,reviewed,us,us
+2023-10-08T21:30:23.900Z,38.8271667,-122.804,1.75,3.87,mw,108,20,0.006058,0.06,nc,nc73947486,2023-10-09T16:22:04.208Z,"7 km NW of The Geysers, CA",earthquake,0.07,0.11,,3,reviewed,nc,nc
+2023-10-08T21:21:42.192Z,29.7824,139.9375,10,4.9,mb,32,131,6.9,0.52,us,us6000le3x,2023-10-08T22:06:57.040Z,"Izu Islands, Japan region",earthquake,11.08,1.92,0.112,25,reviewed,us,us
+2023-10-08T21:17:29.574Z,29.7869,140.026,10,5.4,mb,68,82,5.12,0.98,us,us6000le3k,2023-10-08T23:22:19.319Z,"Izu Islands, Japan region",earthquake,10.97,1.878,0.034,294,reviewed,us,us
+2023-10-08T21:13:28.933Z,29.7887,140.0434,10,5.1,mb,63,63,6.101,0.67,us,us6000le3r,2023-10-08T21:54:26.040Z,"Izu Islands, Japan region",earthquake,11.14,1.837,0.044,168,reviewed,us,us
+2023-10-08T21:05:33.644Z,29.758,140.0207,10,5.3,mb,80,82,5.146,0.81,us,us6000le2y,2023-10-08T21:19:58.040Z,"Izu Islands, Japan region",earthquake,10.78,1.865,0.058,101,reviewed,us,us
+2023-10-08T21:00:41.697Z,29.8125,140.0184,10,5,mb,66,111,6.07,0.84,us,us6000le3e,2023-10-08T21:25:47.040Z,"Izu Islands, Japan region",earthquake,11.47,1.875,0.039,215,reviewed,us,us
+2023-10-08T20:56:48.864Z,29.8231,139.8976,10,4.9,mb,35,135,5.054,1.1,us,us6000le3u,2023-10-08T22:20:59.040Z,"Izu Islands, Japan region",earthquake,11.82,1.919,0.096,34,reviewed,us,us
+2023-10-08T20:34:32.842Z,29.7574,139.9976,10,4.8,mb,65,135,3.351,0.28,us,us6000le3i,2023-10-09T05:39:53.040Z,"Izu Islands, Japan region",earthquake,10.21,1.908,0.081,47,reviewed,us,us
+2023-10-08T20:26:00.000Z,29.7,139.9,1,5,Ml,9,100.79999193600065,0,1.01,at,at00s288rc,2023-10-09T01:19:50.542Z,"Izu Islands, Japan region",earthquake,0,0,,6,reviewed,at,at
+2023-10-08T20:25:23.195Z,29.7066,139.9015,10,4.9,mb,50,132,6.127,1.08,us,us6000le2t,2023-10-08T23:49:02.962Z,"Izu Islands, Japan region",earthquake,12.05,1.91,0.076,54,reviewed,us,us
+2023-10-08T20:13:51.441Z,29.7787,140.0001,10,4.7,mb,74,122,3.33,0.72,us,us6000le2p,2023-10-09T05:04:42.040Z,"Izu Islands, Japan region",earthquake,10.58,1.893,0.07,62,reviewed,us,us
+2023-10-08T19:50:24.070Z,-31.393,-68.9172,115.841,4.1,mb,23,76,0.251,0.77,us,us6000le2h,2023-10-08T21:10:37.040Z,"24 km NW of Villa Basilio Nievas, Argentina",earthquake,6.63,5.535,0.262,4,reviewed,us,us
+2023-10-08T19:46:32.364Z,30.772,86.3616,10,4.4,mb,41,52,3.109,0.5,us,us6000le2i,2023-10-08T21:04:20.040Z,"194 km NE of Saga, China",earthquake,8.82,1.909,0.079,46,reviewed,us,us
+2023-10-08T18:07:40.960Z,-3.1836,148.4004,10,5.9,mww,62,73,7.717,0.73,us,us6000le27,2023-10-09T08:20:58.253Z,"Bismarck Sea",earthquake,8.73,1.872,0.059,28,reviewed,us,us
