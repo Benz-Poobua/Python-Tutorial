@@ -1,4 +1,4 @@
-# ESS_Coding_Summary
+# Python Tutorials
 
-## Info
-This is notebook summarizing python.
+## Synopsis
+These are notebooks used for tutorials and summarizing the Geophysics-related contents.
